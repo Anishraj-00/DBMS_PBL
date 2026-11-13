@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+apache-maven-3.9.6/
+maven.zip
+.m2/
+
+# Build outputs
+frontend/dist/
+frontend/build/
+backend/target/
+*.class
+
+# Environment and Logs
+*.log
+.env
+.env.local
+
+# IDEs & System files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
